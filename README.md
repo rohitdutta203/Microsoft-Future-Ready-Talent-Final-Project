@@ -5,7 +5,8 @@ It is a fully responsive E-store optimised for both mobile as well as PC usecase
 having various subsections like Men, Women, Brands, Sale and News consisting further dropdown menu.
 It also have a shopping or the order page and our contact details. We run dynamic discounts on the most
 wanted products which aids the customers in buying their desired products at an affordable price.
-
+##ChatBot url
+https://webchat.botframework.com/embed/frt-chatbot-bot?s=pJg869Fsid8.L5F_Anbv-CKd2BUH67-7Ty-3VMeeLkl2LwO7LHhu2Dk
 ## My Website(Azure) Link: https://kind-smoke-0dd8f7e10.2.azurestaticapps.net
 
 ## Home Page
